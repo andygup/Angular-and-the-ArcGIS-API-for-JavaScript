@@ -1,12 +1,4 @@
-.edsp-banner{
-  height: 60px;
+.title {
+  font-family: Arial, Helvetica, sans-serif;
   text-align: center;
-}
-
-h3{
-  margin: 10px 0;
-}
-
-#control-panel{
-  background-color: wheat;
 }

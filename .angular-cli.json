@@ -20,7 +20,6 @@
       "testTsconfig": "tsconfig.spec.json",
       "prefix": "app",
       "styles": [
-        "bootstrap.min.css",
         "styles.css"
       ],
       "scripts": [],
@@ -46,7 +45,6 @@
       "testTsconfig": "tsconfig.spec.json",
       "prefix": "app",
       "styles": [
-        "bootstrap.min.css",
         "styles.css"
       ],
       "scripts": [],
@@ -72,7 +70,6 @@
       "testTsconfig": "tsconfig.spec.json",
       "prefix": "app",
       "styles": [
-        "bootstrap.min.css",
         "styles.css"
       ],
       "scripts": [],
@@ -98,7 +95,6 @@
       "testTsconfig": "tsconfig.spec.json",
       "prefix": "app",
       "styles": [
-        "bootstrap.min.css",
         "styles.css"
       ],
       "scripts": [],
@@ -124,7 +120,6 @@
       "testTsconfig": "tsconfig.spec.json",
       "prefix": "app",
       "styles": [
-        "bootstrap.min.css",
         "styles.css"
       ],
       "scripts": [],
@@ -150,7 +145,6 @@
       "testTsconfig": "tsconfig.spec.json",
       "prefix": "app",
       "styles": [
-        "bootstrap.min.css",
         "styles.css"
       ],
       "scripts": [],
@@ -176,7 +170,6 @@
       "testTsconfig": "tsconfig.spec.json",
       "prefix": "app",
       "styles": [
-        "bootstrap.min.css",
         "styles.css"
       ],
       "scripts": [],
@@ -202,7 +195,6 @@
       "testTsconfig": "tsconfig.spec.json",
       "prefix": "app",
       "styles": [
-        "bootstrap.min.css",
         "styles.css"
       ],
       "scripts": [],
@@ -228,7 +220,6 @@
       "testTsconfig": "tsconfig.spec.json",
       "prefix": "app",
       "styles": [
-        "bootstrap.min.css",
         "styles.css"
       ],
       "scripts": [],

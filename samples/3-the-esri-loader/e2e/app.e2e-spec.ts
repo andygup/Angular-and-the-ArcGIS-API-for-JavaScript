@@ -1,6 +1,6 @@
 import { AppPage } from './app.po';
 
-describe('simple-map App', () => {
+describe('sample-app App', () => {
   let page: AppPage;
 
   beforeEach(() => {
@@ -9,6 +9,6 @@ describe('simple-map App', () => {
 
   it('should display welcome message', () => {
     page.navigateTo();
-    expect(page.getParagraphText()).toEqual('Welcome to app!');
+    expect(page.getParagraphText()).toContain('Welcome');
   });
 });
